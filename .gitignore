@@ -1,0 +1,10 @@
+# 모든 파일 무시
+*
+
+# .h, .cpp 파일만 추적
+!*.h
+!*.cpp
+
+!*/
+!.gitignore
+!README.md
